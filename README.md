@@ -1,4 +1,4 @@
-##TR
+## TR
 ## MovieLens Veri Kümesi Kullanarak Hibrit Öneri Sistemi
 Bu proje, film bilgileri ve kullanıcı derecelendirmelerini içeren MovieLens veri kümesini kullanarak bir hibrit öneri sistemi uygular.
 
